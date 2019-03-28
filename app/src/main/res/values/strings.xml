@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Population</string>
+    <string name="name">Name</string>
+    <string name="rank">Rank</string>
+    <string name="population">Population</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+</resources>
